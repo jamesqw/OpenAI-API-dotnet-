@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = OpenAI_API
+build_property.ProjectDir = c:\Programas\ChatGPT-API\OpenAI-API-dotnet-master\OpenAI_API\
